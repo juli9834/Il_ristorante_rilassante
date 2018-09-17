@@ -88,24 +88,28 @@
         height: 100px;
     }
 
+    img {
+        max-width: 100%;
+        max-height: 100vw;
+    }
 </style>
 
 
 <body>
-
+    <h1></h1>
     <div class="header">
         <div class="header_text">
-            <!--<img src="favicon.ico" alt=""><br>-->
+            <img src="italien_logo.jpg" alt=""><br>
             <!--<h3>Il Ristorante Rilassante</h3>-->
             <button class="menu-item" data-kategori="alle">Alle</button>
 
-            <button class="menu-item" data-kategori="forretter">Forretter</button>
+            <button class="menu-item" data-kategori="forret">Forretter</button>
 
-            <button class="menu-item" data-kategori="hovedretter">Hovedretter</button>
+            <button class="menu-item" data-kategori="hovedret">Hovedretter</button>
 
-            <button class="menu-item" data-kategori="desserter">Desserter</button>
+            <button class="menu-item" data-kategori="dessert">Desserter</button>
 
-            <button class="menu-item" data-kategori="drikkevarer">Drikkevarer</button>
+            <button class="menu-item" data-kategori="drikkevare">Drikkevarer</button>
 
             <button class="menu-item" data-kategori="sideorders">Sideorders</button>
 
@@ -115,8 +119,7 @@
     <section id="modal">
         <button>X</button>
         <div id="modal-content">
-            <h2 class="modal-navn"></h2>
-            <strong>Oprindelsesregion: </strong><span class="data-oprindelsesregion"></span> <br> <br>
+            <h2 class="modal-navn"></h2> <br> <br>
             <span class="data-langbeskrivelse"></span>
             <img class="modal-billede" src="" alt=""> <br>
 
@@ -158,7 +161,7 @@
             visRetter();
         }
         async function hentJson() {
-            let myJson = await fetch("");
+            let myJson = await fetch("menu.json");
             retter = await myJson.json();
             visRetter();
         }
@@ -171,7 +174,7 @@
                 if (retter.kategori == madFilter || madFilter == "alle") {
                     let klon = temp.cloneNode(true).content;
                     //indsæt data i klonen
-                    klon.querySelector("img").src = "small/" + retter.billede + "-sm.jpg";
+                    klon.querySelector("img").src = "images/" + retter.billede + ".jpg";
                     klon.querySelector("img").addEventListener("click", () => {
                         visModal(retter);
                     });
@@ -187,9 +190,8 @@
         function visModal(retter) {
             modal.classList.add("vis");
             modal.querySelector(".modal-navn").textContent = retter.navn;
-            modal.querySelector(".modal-billede").src = "medium/" + retter.billede + "-md.jpg";
+            modal.querySelector(".modal-billede").src = "images/" + retter.billede + ".jpg";
             modal.querySelector(".modal-billede").alt = "Foto af " + retter.navn;
-            modal.querySelector(".data-oprindelsesregion").textContent = retter.oprindelsesregion;
             modal.querySelector(".data-langbeskrivelse").textContent = retter.langbeskrivelse;
             modal.querySelector("button").addEventListener("click", skjulModal);
         }
@@ -198,7 +200,6 @@
             modal.classList.remove("vis");
             //window.scrollTo(0);
         }
-
     </script>
 </body>
 
