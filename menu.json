@@ -1,234 +1,234 @@
 [
-  {
-    "kategori": "forret",
-    "navn": "carpaccio",
-    "pris": 89,
-    "kortbeskrivelse": "Skiver af råt kød",
-    "langbeskrivelse": "skiver af råt kød med olie, kapers og ost",
-    "billede": "carpaccio"
+    {
+        "kategori": "forret",
+        "navn": "Carpaccio",
+        "pris": 89,
+        "kortbeskrivelse": "Skiver af råt kød",
+        "langbeskrivelse": "skiver af råt kød med olie, kapers og ost",
+        "billede": "carpaccio"
   },
-  {
-    "kategori": "forret",
-    "navn": "caprese",
-    "pris": 75,
-    "kortbeskrivelse": "tomat og mozzarella",
-    "langbeskrivelse": "skiver af tomat og mozzarella med olie og basillikum",
-    "billede": "Caprese"
+    {
+        "kategori": "forret",
+        "navn": "Caprese",
+        "pris": 75,
+        "kortbeskrivelse": "tomat og mozzarella",
+        "langbeskrivelse": "skiver af tomat og mozzarella med olie og basillikum",
+        "billede": "Caprese"
   },
-  {
-    "kategori": "forret",
-    "navn": "tapas",
-    "pris": 89,
-    "kortbeskrivelse": "flere små retter",
-    "langbeskrivelse": "tallerken fyldt med forskellige små retter",
-    "billede": "tapas"
+    {
+        "kategori": "forret",
+        "navn": "Tapas",
+        "pris": 89,
+        "kortbeskrivelse": "flere små retter",
+        "langbeskrivelse": "tallerken fyldt med forskellige små retter",
+        "billede": "tapas"
   },
-  {
-    "kategori": "forret",
-    "navn": "bruschetta",
-    "pris": 69,
-    "kortbeskrivelse": "brød med fyld",
-    "langbeskrivelse": "brød med tomat, løg, oliven og oregano, med ost på toppen",
-    "billede": "bruschetta"
+    {
+        "kategori": "forret",
+        "navn": "Bruschetta",
+        "pris": 69,
+        "kortbeskrivelse": "brød med fyld",
+        "langbeskrivelse": "brød med tomat, løg, oliven og oregano, med ost på toppen",
+        "billede": "bruschetta"
   },
-  {
-    "kategori": "forret",
-    "navn": "antipasti misti",
-    "pris": 75,
-    "kortbeskrivelse": "blandet tallerken",
-    "langbeskrivelse": "tallerken med blandet kød, oste og små retter",
-    "billede": "antipasti-misti"
+    {
+        "kategori": "forret",
+        "navn": "Antipasti misti",
+        "pris": 75,
+        "kortbeskrivelse": "blandet tallerken",
+        "langbeskrivelse": "tallerken med blandet kød, oste og små retter",
+        "billede": "antipasti-misti"
   },
-  {
-    "kategori": "hovedret",
-    "navn": "spaghetti carbonara",
-    "pris": 120,
-    "kortbeskrivelse": "pasta med bacon",
-    "langbeskrivelse": "pasta med bacon, flødesovs og basillikum",
-    "billede": "spaghetti-carbonara"
+    {
+        "kategori": "hovedret",
+        "navn": "Spaghetti carbonara",
+        "pris": 120,
+        "kortbeskrivelse": "pasta med bacon",
+        "langbeskrivelse": "pasta med bacon, flødesovs og basillikum",
+        "billede": "spaghetti-carbonara"
   },
-  {
-    "kategori": "hovedret",
-    "navn": "tortellini",
-    "pris": 99,
-    "kortbeskrivelse": "tortellini med sauce",
-    "langbeskrivelse": "tortellini med fløde/tomat sauce",
-    "billede": "tortellini"
+    {
+        "kategori": "hovedret",
+        "navn": "Tortellini",
+        "pris": 99,
+        "kortbeskrivelse": "tortellini med sauce",
+        "langbeskrivelse": "tortellini med fløde/tomat sauce",
+        "billede": "tortellini"
   },
-  {
-    "kategori": "hovedret",
-    "navn": "osso buco",
-    "pris": 130,
-    "kortbeskrivelse": "kalveskank",
-    "langbeskrivelse": "kalveskank med suppe af tomater, gulerødder, løg og forskellige krydderrier",
-    "billede": "osso-buco"
+    {
+        "kategori": "hovedret",
+        "navn": "Osso buco",
+        "pris": 130,
+        "kortbeskrivelse": "kalveskank",
+        "langbeskrivelse": "kalveskank med suppe af tomater, gulerødder, løg og forskellige krydderrier",
+        "billede": "osso-buco"
   },
-  {
-    "kategori": "hovedret",
-    "navn": "lasagne",
-    "pris": 100,
-    "kortbeskrivelse": "klassisk lasagne",
-    "langbeskrivelse": "lasagne med oksekød, bechamelsauce og ost",
-    "billede": "lasagne"
+    {
+        "kategori": "hovedret",
+        "navn": "Lasagne",
+        "pris": 100,
+        "kortbeskrivelse": "klassisk lasagne",
+        "langbeskrivelse": "lasagne med oksekød, bechamelsauce og ost",
+        "billede": "lasagne"
   },
-  {
-    "kategori": "hovedret",
-    "navn": "risotto",
-    "pris": 130,
-    "kortbeskrivelse": "klassisk risotto",
-    "langbeskrivelse": "ris kogt med boullion og grøntsager",
-    "billede": "risotto"
+    {
+        "kategori": "hovedret",
+        "navn": "Risotto",
+        "pris": 130,
+        "kortbeskrivelse": "klassisk risotto",
+        "langbeskrivelse": "ris kogt med boullion og grøntsager",
+        "billede": "risotto"
   },
-  {
-    "kategori": "hovedret",
-    "navn": "ravioli",
-    "pris": 99,
-    "kortbeskrivelse": "fyldte ravioli",
-    "langbeskrivelse": "ravioli fyldt med fars, spinat og ost",
-    "billede": "ravioli"
+    {
+        "kategori": "hovedret",
+        "navn": "Ravioli",
+        "pris": 99,
+        "kortbeskrivelse": "fyldte ravioli",
+        "langbeskrivelse": "ravioli fyldt med fars, spinat og ost",
+        "billede": "ravioli"
   },
-  {
-    "kategori": "hovedret",
-    "navn": "spaghetti bolognese",
-    "pris": 120,
-    "kortbeskrivelse": "klassisk",
-    "langbeskrivelse": "spaghetti med kødsovs lavet med kød, gulerødder, tomat og boullion",
-    "billede": "spaghetti-bolognese"
+    {
+        "kategori": "hovedret",
+        "navn": "Spaghetti bolognese",
+        "pris": 120,
+        "kortbeskrivelse": "klassisk",
+        "langbeskrivelse": "spaghetti med kødsovs lavet med kød, gulerødder, tomat og boullion",
+        "billede": "spaghetti-bolognese"
   },
-  {
-    "kategori": "dessert",
-    "navn": "panna cotta",
-    "pris": 69,
-    "kortbeskrivelse": "fløde dessert",
-    "langbeskrivelse": "lavet på fløde, med bær til. minder om budding",
-    "billede": "panna-cotta"
+    {
+        "kategori": "dessert",
+        "navn": "Panna cotta",
+        "pris": 69,
+        "kortbeskrivelse": "fløde dessert",
+        "langbeskrivelse": "lavet på fløde, med bær til. minder om budding",
+        "billede": "panna-cotta"
   },
-  {
-    "kategori": "dessert",
-    "navn": "tiramisu",
-    "pris": 69,
-    "kortbeskrivelse": "klassisk tiramisu",
-    "langbeskrivelse": "ladyfingers vædet i kaffe og amaretto, med mascapone, toppet med kakaopulver",
-    "billede": "tiramisu"
+    {
+        "kategori": "dessert",
+        "navn": "Tiramisu",
+        "pris": 69,
+        "kortbeskrivelse": "klassisk tiramisu",
+        "langbeskrivelse": "ladyfingers vædet i kaffe og amaretto, med mascapone, toppet med kakaopulver",
+        "billede": "tiramisu"
   },
-  {
-    "kategori": "dessert",
-    "navn": "italiensk is",
-    "pris": 69,
-    "kortbeskrivelse": "3 kugler",
-    "langbeskrivelse": "3 kugler chokolade is",
-    "billede": "italiensk-is"
+    {
+        "kategori": "dessert",
+        "navn": "Italiensk is",
+        "pris": 69,
+        "kortbeskrivelse": "3 kugler",
+        "langbeskrivelse": "3 kugler chokolade is",
+        "billede": "italiensk-is"
   },
-  {
-    "kategori": "dessert",
-    "navn": "ostekage",
-    "pris": 69,
-    "kortbeskrivelse": "klassisk ostekage",
-    "langbeskrivelse": "ostekage med kiksebund",
-    "billede": "ostekage"
+    {
+        "kategori": "dessert",
+        "navn": "Ostekage",
+        "pris": 69,
+        "kortbeskrivelse": "klassisk ostekage",
+        "langbeskrivelse": "ostekage med kiksebund",
+        "billede": "ostekage"
   },
-  {
-    "kategori": "dessert",
-    "navn": "biscotti",
-    "pris": 69,
-    "kortbeskrivelse": "mandelkage",
-    "langbeskrivelse": "små kager bagt med hele mandler",
-    "billede": "biscotti"
+    {
+        "kategori": "dessert",
+        "navn": "Biscotti",
+        "pris": 69,
+        "kortbeskrivelse": "mandelkage",
+        "langbeskrivelse": "små kager bagt med hele mandler",
+        "billede": "biscotti"
   },
-  {
-    "kategori": "dessert",
-    "navn": "mascarpone trekanter",
-    "pris": 69,
-    "kortbeskrivelse": "trekanter med mascarpone",
-    "langbeskrivelse": "butterdejsbunde med mascarpone creme og fugt til",
-    "billede": "mascarpone-trekanter"
+    {
+        "kategori": "dessert",
+        "navn": "Mascarpone trekanter",
+        "pris": 69,
+        "kortbeskrivelse": "trekanter med mascarpone",
+        "langbeskrivelse": "butterdejsbunde med mascarpone creme og fugt til",
+        "billede": "mascarpone-trekanter"
   },
-  {
-    "kategori": "drikkevare",
-    "navn": "øl og vand",
-    "pris": 45,
-    "kortbeskrivelse": "",
-    "langbeskrivelse": "",
-    "billede": "oel-vand"
+    {
+        "kategori": "drikkevare",
+        "navn": "Øl og vand",
+        "pris": 45,
+        "kortbeskrivelse": "",
+        "langbeskrivelse": "",
+        "billede": "oel-vand"
   },
-  {
-    "kategori": "drikkevare",
-    "navn": "rødvine",
-    "pris": 69,
-    "kortbeskrivelse": "",
-    "langbeskrivelse": "",
-    "billede": "roedvine"
+    {
+        "kategori": "drikkevare",
+        "navn": "Rødvine",
+        "pris": 69,
+        "kortbeskrivelse": "",
+        "langbeskrivelse": "",
+        "billede": "roedvine"
   },
-  {
-    "kategori": "drikkevare",
-    "navn": "hvidvine",
-    "pris": 69,
-    "kortbeskrivelse": "",
-    "langbeskrivelse": "",
-    "billede": "hvidvine"
+    {
+        "kategori": "drikkevare",
+        "navn": "Hvidvine",
+        "pris": 69,
+        "kortbeskrivelse": "",
+        "langbeskrivelse": "",
+        "billede": "hvidvine"
   },
-  {
-    "kategori": "drikkevare",
-    "navn": "kaffe",
-    "pris": 49,
-    "kortbeskrivelse": "",
-    "langbeskrivelse": "",
-    "billede": "kaffe"
+    {
+        "kategori": "drikkevare",
+        "navn": "Kaffe",
+        "pris": 49,
+        "kortbeskrivelse": "",
+        "langbeskrivelse": "",
+        "billede": "kaffe"
   },
-  {
-    "kategori": "drikkevare",
-    "navn": "likør",
-    "pris": 59,
-    "kortbeskrivelse": "",
-    "langbeskrivelse": "",
-    "billede": "likoer"
+    {
+        "kategori": "drikkevare",
+        "navn": "Likør",
+        "pris": 59,
+        "kortbeskrivelse": "",
+        "langbeskrivelse": "",
+        "billede": "likoer"
   },
-  {
-    "kategori": "drikkevare",
-    "navn": "drinks",
-    "pris": 59,
-    "kortbeskrivelse": "",
-    "langbeskrivelse": "",
-    "billede": "drinks"
+    {
+        "kategori": "drikkevare",
+        "navn": "Drinks",
+        "pris": 59,
+        "kortbeskrivelse": "",
+        "langbeskrivelse": "",
+        "billede": "drinks"
   },
-  {
-    "kategori": "sideorders",
-    "navn": "hvidløgsbrød",
-    "pris": 40,
-    "kortbeskrivelse": "hjemmelavet",
-    "langbeskrivelse": "hjemmelavet hvidløgsbrød",
-    "billede": "hvidloegsbroed"
+    {
+        "kategori": "sideorders",
+        "navn": "Hvidløgsbrød",
+        "pris": 40,
+        "kortbeskrivelse": "hjemmelavet",
+        "langbeskrivelse": "hjemmelavet hvidløgsbrød",
+        "billede": "hvidloegsbroed"
   },
-  {
-    "kategori": "sideorders",
-    "navn": "tomatsalat",
-    "pris": 40,
-    "kortbeskrivelse": "klassiak",
-    "langbeskrivelse": "tomatsalat med ost, oliven, løg og dressing",
-    "billede": "tomatsalat"
+    {
+        "kategori": "sideorders",
+        "navn": "Tomatsalat",
+        "pris": 40,
+        "kortbeskrivelse": "klassiak",
+        "langbeskrivelse": "tomatsalat med ost, oliven, løg og dressing",
+        "billede": "tomatsalat"
   },
-  {
-    "kategori": "sideorders",
-    "navn": "ciabattaboller",
-    "pris": 40,
-    "kortbeskrivelse": "hjemmelavet",
-    "langbeskrivelse": "hjemmelavet ciabattaboller",
-    "billede": "ciabattaboller"
+    {
+        "kategori": "sideorders",
+        "navn": "Ciabattaboller",
+        "pris": 40,
+        "kortbeskrivelse": "hjemmelavet",
+        "langbeskrivelse": "hjemmelavet ciabattaboller",
+        "billede": "ciabattaboller"
   },
-  {
-    "kategori": "sideorders",
-    "navn": "foccacia brød",
-    "pris": 40,
-    "kortbeskrivelse": "hjemmelavet",
-    "langbeskrivelse": "hjemmelavet foccacia brød",
-    "billede": "foccaciabroed"
+    {
+        "kategori": "sideorders",
+        "navn": "Foccacia brød",
+        "pris": 40,
+        "kortbeskrivelse": "hjemmelavet",
+        "langbeskrivelse": "hjemmelavet foccacia brød",
+        "billede": "foccaciabroed"
   },
-  {
-    "kategori": "sideorders",
-    "navn": "fladbrød",
-    "pris": 40,
-    "kortbeskrivelse": "hjemmelavet",
-    "langbeskrivelse": "hjemmelavet fladbrød",
-    "billede": "fladbrød"
+    {
+        "kategori": "sideorders",
+        "navn": "Fladbrød",
+        "pris": 40,
+        "kortbeskrivelse": "hjemmelavet",
+        "langbeskrivelse": "hjemmelavet fladbrød",
+        "billede": "fladbrød"
   }
 ]
