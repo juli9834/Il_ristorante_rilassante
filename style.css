@@ -20,6 +20,10 @@ article {
     display: grid;
 }
 
+.data-kortbeskrivelse {
+    font-size: 2em;
+}
+
 h1 {
     text-transform: capitalize;
     text-align: center;
@@ -37,6 +41,10 @@ h3 {
 }
 */
 
+h4 {
+    font-size: 1.5em;
+}
+
 @media screen and (min-width:580px) {
     .data-container {
         padding-left: 10%;
@@ -49,6 +57,7 @@ h3 {
 #modal {
     width: 100vw;
     position: fixed;
+    top: 0;
     background-color: rgba(0, 0, 0, .7);
     text-align: center;
     opacity: 0;
